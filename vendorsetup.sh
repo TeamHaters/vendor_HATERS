@@ -1,0 +1,5 @@
+# add_lunch_combo team_HATERS_toro-user
+add_lunch_combo team_HATERS_toro-userdebug
+# add_lunch_combo team_HATERS_maguro-user
+add_lunch_combo team_HATERS_maguro-userdebug
+
