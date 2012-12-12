@@ -1,4 +1,4 @@
-# Inherit AOSP device configuration for toro.
+# Inherit AOSP device configuration for mako.
 $(call inherit-product, device/lge/full_mako.mk)
 
 # Inherit common product files.
